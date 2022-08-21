@@ -1,0 +1,115 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "auth_dbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "NET6Demo.Model",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "__efmigrationshistory",
+         "ObjectType": 0
+      },
+      {
+         "Name": "log",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_info_licesen",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_info_org",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_info_orgtype",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_info_power",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_info_roles",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_info_status",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_info_user",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_map_role_power",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_map_user_org",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_map_user_power",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_map_user_roles",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_rec_authorize",
+         "ObjectType": 0
+      },
+      {
+         "Name": "tb_rec_license",
+         "ObjectType": 0
+      },
+      {
+         "Name": "vw_org_license",
+         "ObjectType": 3
+      },
+      {
+         "Name": "vw_org_user_power",
+         "ObjectType": 3
+      },
+      {
+         "Name": "vw_org_user_role",
+         "ObjectType": 3
+      },
+      {
+         "Name": "vw_role_power",
+         "ObjectType": 3
+      },
+      {
+         "Name": "vw_user_role_power",
+         "ObjectType": 3
+      }
+   ],
+   "UiHint": "AuthConnect",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": true,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
